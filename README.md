@@ -13,14 +13,12 @@ Pipe
 - [x] One life is taken from the bird when a collision with any pipe occurs
 
 ### Egg
-- [x] Appears
 - [x] Randomly on the upward facing pipes Could be collected either by the pig or the bird
 - [x] If a pig collects an egg, points were lost
 - [x] If the bird collects an egg, different events will be triggered depending on the color of the egg
 - [x] If a white egg is collected, points will be added
 - [x] If a golden egg is collected, 6 seconds of autopilot mode will be triggered.
 ### Pig (thief in our game)
-- [x] Drops
 - [x] Randomly from downward facing pipes
 - [x] Could collect the egg right beneath it and lead to points lost if the egg is not collected by the bird first
 - [x] The game is over and score is reset to 0 if the bird collides with a pig
