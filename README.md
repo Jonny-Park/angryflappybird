@@ -38,9 +38,9 @@ The goal of the game is for the angry flappy bird to move through the pipes with
 - [x] Show score and lives text
 - [x] Keep score and lives accumulative
 # 
-- Cindy: The algorithm to make the eggs and pigs randomly appears on the pipe with different heights.
-- Marina: Implementing autopilot mode; changing the background day to night periodically; timeline.
-- Jonny: Implementing UI panel and code for text label and data of lives and score; Working on GitHub.
+- **Cindy**: The algorithm to make the eggs and pigs randomly appears on the pipe with different heights.
+- **Marina**: Implementing autopilot mode; changing the background day to night periodically; timeline.
+- **Jonny**: Implementing UI panel and code for text label and data of lives and score; Working on GitHub.
 # 
 ### The most challenging part about the project
 - Merging the code on GitHub!
