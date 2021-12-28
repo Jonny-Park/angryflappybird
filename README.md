@@ -11,7 +11,7 @@ The goal of the game is for the angry flappy bird to move through the pipes with
 Pipe
 - [x] Appears in pairs every fixed amount of time
 - [x] One life is taken from the bird when a collision with any pipe occurs
-- [ ] The bird bounces backward and drops immediately upon collision
+
 ### Egg
 - [x] Appears
 - [x] Randomly on the upward facing pipes Could be collected either by the pig or the bird
