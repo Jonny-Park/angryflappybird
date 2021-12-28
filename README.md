@@ -24,8 +24,8 @@ The goal of the game is for the angry flappy bird to move through the pipes with
 - [x] Randomly on the upward facing pipes Could be collected either by the thief or the bird
 - [x] If a wreath is collected, **6 seconds of autopilot mode** will be triggered.
 - [x] If a thief collects an wreath, points were lost
-<img src='http://g.recordit.co/JbMH8wYEuk.gif' title='Bird and Wreath' width='' alt='Bird and Wreath'/>
-                                                                                                         
+<img src='http://g.recordit.co/BANbHuHSeO.gif' title='Bird and Wreath' width='' alt='Bird and Wreath'/>
+
 ### Thief (pig in our code)
 - [x] Randomly from downward facing pipes
 - [x] Could collect gift or wreath right beneath it and lead to points lost if the gift or wreath is not collected by the bird first
