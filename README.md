@@ -12,10 +12,14 @@ The goal of the game is for the angry flappy bird to move through the pipes with
 ### Pipe
 - [x] Appears in pairs every fixed amount of time
 - [x] One life is taken from the bird when a collision with any pipe occurs
+<img src='http://g.recordit.co/QSiqtIHDQD.gif' title='Bird and Pipe' width='' alt='Bird and Pipe'/>
+
 ### Gift (White egg in our code)
 - [x] Randomly on the upward facing pipes Could be collected either by the thief or the bird
 - [x] If a gift is collected, points will be added
 - [x] If a thief collects an gift, points were lost
+<img src='http://g.recordit.co/VHMMkjsbon.gif' title='Bird and Gift' width='' alt='Bird and Gift'/>
+
 ### Wreath (Golden egg in our code)
 - [x] Randomly on the upward facing pipes Could be collected either by the thief or the bird
 - [x] If a wreath is collected, **6 seconds of autopilot mode** will be triggered.
@@ -26,6 +30,8 @@ The goal of the game is for the angry flappy bird to move through the pipes with
 - [x] Randomly from downward facing pipes
 - [x] Could collect gift or wreath right beneath it and lead to points lost if the gift or wreath is not collected by the bird first
 - [x] The game is over and score is reset to 0 if the bird collides with a thief
+<img src='http://g.recordit.co/DHNveOuKC9.gif' title='Bird and Thief' width='' alt='Bird and Thief'/>
+
 ### Floor
 - [x] Scrolls through the scene consistently during the game until a collision happens.
 - [x] The game is over and the score is reset to 0 if the bird collides with the floor.
