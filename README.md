@@ -42,7 +42,7 @@ The goal of the game is for the angry flappy bird to move through the pipes with
 - Marina: Implementing autopilot mode; changing the background day to night periodically; timeline.
 - Jonny: Implementing UI panel and code for text label and data of lives and score; Working on GitHub.
 # 
-#### The most challenging part about the project
-- Merging the code on GitHub
+### The most challenging part about the project
+- Merging the code on GitHub!
 
 
